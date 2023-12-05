@@ -35,15 +35,13 @@ section {
 }
 
 
-    h2 {
+h2 {
         color: #333;
         font-weight: bold; /* Mettre en gras */
         font-size: 24px; 
         text-decoration: underline; 
     }
     
-
-
 
 p {
     color: #555;
@@ -62,6 +60,7 @@ p {
 .donate-button:hover {
     background-color: #45a049;
 }
+
 .image-at-end {
     position: fixed;
     bottom: 0;
